@@ -3,125 +3,87 @@
         "name": "Talby",
         "description": "Windwalker monk with an interest in computer sciences",
         "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
-        "github": "https://github.com/",
-        "project": "https://github.com/",
+        "bio": "Student studying blue team fundamentals and exploring other areas of computer science, Haskell and JavaScript in particular.  ",
+        "contactmessage": "Find me in Discord! Talby#2815",
+        "email": "-",
+        "phone": "-",
+        "github": "https://github.com/Talby223",
+        "project": "https://github.com/Talby223/bugwalker",
         "address": {
-            "street": "(Your Street)",
-            "city": "(Your City)",
-            "state": "(Your State)"
+            "street": "-",
+            "city": "-",
+            "state": "-"
         },
-        "website": "https://github.com/",
-        "resumedownload": "https://github.com/",
+        "website": "https://www.peakofserenity.com/",
+        "resumedownload": "-",
         "social": [
             {
-                "name": "facebook",
-                "url": "https://github.com/",
-                "className": "fa fa-facebook"
+                "name": "-",
+                "url": "-",
+                "className": "-"
             },
             {
-                "name": "twitter",
-                "url": "http://twitter.com",
-                "className": "fa fa-twitter"
+                "name": "-",
+                "url": "-",
+                "className": "-"
             },
             {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/",
-                "className": "fa fa-linkedin"
+                "name": "-",
+                "url": "-",
+                "className": "-"
             },
             {
-                "name": "instagram",
-                "url": "http://instagram.com/",
-                "className": "fa fa-instagram"
+                "name": "-",
+                "url": "-",
+                "className": "-"
             },
             {
-                "name": "github",
-                "url": "https://github.com/",
-                "className": "fa fa-github"
+                "name": "-",
+                "url": "-",
+                "className": "-"
             }
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "pursuing a balcheors in computer science",
         "education": [
             {
-                "school": "University?",
-                "degree": "Masters in Beer tasting",
-                "graduated": "April 2007",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-            },
-            {
-                "school": "Hogwarts School of Witchcraft and Wizardry",
-                "degree": "Gryffindor House",
-                "graduated": "March 2003",
-                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+                "school": "-?",
+                "degree": "Cybersecurity",
+                "graduated": "-",
+                "description": "Ethical Hacking, Cyber Domain, Networking "
             }
         ],
         "work": [
             {
-                "company": "Department of Magical Law Enforcement",
-                "title": "Ministry of Magic",
-                "years": "December 2010 - Present",
-                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
-            },
-            {
-                "company": "Department for the Regulation and Control of Magical Creatures",
-                "title": "Ministry of Magic",
-                "years": "March 2007 - December 2010",
-                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+                "company": "-",
+                "title": "-",
+                "years": "-",
+                "description": "-"
             }
         ],
         "skills": [
             {
-                "name": "Python",
-                "level": "60%"
+                "name": "Haskell",
+                "level": "0.02%"
             },
             {
-                "name": "VueJs",
-                "level": "55%"
+                "name": "Javascript",
+                "level": "0.01%"
             },
             {
-                "name": "ReactJs",
-                "level": "50%"
-            },
-            {
-                "name": "CSS",
-                "level": "90%"
-            },
-            {
-                "name": "JAVA",
-                "level": "80%"
+                "name": "World of Warcraft",
+                "level": "99.97%"
             }
         ]
     },
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Bugwalker",
+                "category": "Centralized bug tracking for the Monk class",
                 "image": "project1.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project2.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project3.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
-                "url": "https://www.google.com"
+                "url": "bugwalker.io"
             }
         ]
     }
