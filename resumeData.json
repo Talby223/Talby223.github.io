@@ -1,0 +1,90 @@
+{
+    "main": {
+        "name": "Talby",
+        "description": "Windwalker monk with an interest in computer sciences",
+        "image": "profilepic.jpg",
+        "bio": "Student studying blue team fundamentals and exploring other areas of computer science, Haskell and JavaScript in particular.  ",
+        "contactmessage": "Find me in Discord! Talby#2815",
+        "email": "-",
+        "phone": "-",
+        "github": "https://github.com/Talby223",
+        "project": "https://github.com/Talby223/bugwalker",
+        "address": {
+            "street": "-",
+            "city": "-",
+            "state": "-"
+        },
+        "website": "https://www.peakofserenity.com/",
+        "resumedownload": "-",
+        "social": [
+            {
+                "name": "-",
+                "url": "-",
+                "className": "-"
+            },
+            {
+                "name": "-",
+                "url": "-",
+                "className": "-"
+            },
+            {
+                "name": "-",
+                "url": "-",
+                "className": "-"
+            },
+            {
+                "name": "-",
+                "url": "-",
+                "className": "-"
+            },
+            {
+                "name": "-",
+                "url": "-",
+                "className": "-"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "pursuing a balcheors in computer science",
+        "education": [
+            {
+                "school": "-?",
+                "degree": "Cybersecurity",
+                "graduated": "-",
+                "description": "Ethical Hacking, Cyber Domain, Networking "
+            }
+        ],
+        "work": [
+            {
+                "company": "-",
+                "title": "-",
+                "years": "-",
+                "description": "-"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Haskell",
+                "level": "0.02%"
+            },
+            {
+                "name": "Javascript",
+                "level": "0.01%"
+            },
+            {
+                "name": "World of Warcraft",
+                "level": "99.97%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Bugwalker",
+                "category": "Centralized bug tracking for the Monk class",
+                "image": "project1.jpg",
+                "url": "bugwalker.io"
+            }
+        ]
+    }
+}
