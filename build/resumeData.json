@@ -83,7 +83,7 @@
                 "title": "Bugwalker",
                 "category": "Centralized bug tracking for the Monk class",
                 "image": "project1.jpg",
-                "url": "bugwalker.io"
+                "url": "https://bugwalker.io/"
             }
         ]
     }
